@@ -4,7 +4,7 @@ Behaviour patterns
 
 1. Observer
 
-'''java
+```java
 import java.util.ArrayList;
 import java.util.List;
 
@@ -83,4 +83,4 @@ class Car implements Observable {
      }
  }
  
- '''
+ ```
